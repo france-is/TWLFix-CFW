@@ -10,9 +10,9 @@ endif
 TOPDIR ?= $(CURDIR)
 include $(DEVKITARM)/3ds_rules
 
-APP_TITLE = TWLFix CFW Edition
+APP_TITLE = TWLFix+ CFW Edition
 APP_DESCRIPTION = Uninstall TWL applications
-APP_AUTHOR = RandalHoffman
+APP_AUTHOR = Randal H & Frances A
 
 #---------------------------------------------------------------------------------
 # TARGET is the name of the output
