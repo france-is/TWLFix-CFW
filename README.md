@@ -1,4 +1,4 @@
-# TWLFix-CFW
+# TWLFix-CFW+
 Code comments and redesigned icon added by frances
 
 Uninstall the stock TWL apps, to allow system to reinstall them from CDN
